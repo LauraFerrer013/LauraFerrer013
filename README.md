@@ -30,5 +30,4 @@
 
 📫 **Entre em contato comigo:**
 
-- Instagram: [@SeuPerfil](https://instagram.com/seuperfil)
 - E-mail: lauraferrers014@gmail.com
