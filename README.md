@@ -3,8 +3,7 @@
 <h1 align="center">Laura Ferrer</h1>
 
 ---
-💻 Me chamo Laura Ferrer, tenho 18 anos. Estou no 3° ano do ensino médio, atualmente, estou cursando desenvolvimento de sistemas. 
-Sou apaixonada por tecnologia
+💻 Me chamo Laura Ferrer, tenho 17 anos. Estou no 3° ano do ensino médio, atualmente, estou cursando desenvolvimento de sistemas. 
 
 ---
 
